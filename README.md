@@ -1,2 +1,2 @@
 # Projects
-Machine Learning Projects
+Mall Customer Segmentation using K-Means Clustering
